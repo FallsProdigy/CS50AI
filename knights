@@ -1,3 +1,6 @@
+Check50:
+Checks:
+
 from logic import *
 
 AKnight = Symbol("A is a Knight")
